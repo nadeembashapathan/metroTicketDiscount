@@ -1,0 +1,40 @@
+h2{
+    margin-top: 0.35rem;
+    font-weight:900;
+    color: white;
+    background-color: blue;
+    display:inline-block;
+    padding:3px;
+    border-radius: 0.3rem;
+}
+#display{
+    height:2rem;
+    width:20rem;
+    border-radius:0.5em;
+}
+#calcul{
+    margin-top: 1.4rem;
+    margin-left: 1rem;
+    border:none;
+    font-size:1.5rem;
+    border-radius: 0.5em;
+    padding:5px 15px;
+    background-color:black;
+    color:white;
+}
+.container{
+    border:2px solid darkgrey;
+    text-align:center;
+    padding:5px 20px;
+    background-color:green;
+    border-radius:0.5rem;
+    width:30rem;
+    height:10rem;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width:100vw;
+}
